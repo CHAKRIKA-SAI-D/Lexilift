@@ -1,6 +1,6 @@
-# notepad_app
+# Lexilift- Lifting the burden of DYSLEXIA
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
